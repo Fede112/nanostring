@@ -11,7 +11,7 @@ Team members: Osvaldo Artimagnella, Uriel Luviano Valenzuela and Federico Barone
 
 ## Requirements
 
-To run the application you will need install Julia (>= 1.2) and R (>= 4.0).
+To run the application you will need to install Julia (>= 1.2) and R (>= 4.0).
 Julia packages needed are the following:
 
 ```julia
