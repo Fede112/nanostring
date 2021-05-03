@@ -29,7 +29,7 @@ Pkg.add("CSV")
 Pkg.add("RCall")
 ```
 
-R packages are installed automatically when running the script.
+R packages are installed automatically when running the script /RScript/installLibs.r
 
 ## Usage
 To launch the application open a terminal and from the directory of the repository run the following command:
